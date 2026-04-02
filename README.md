@@ -18,7 +18,16 @@ https://github.com/calebwu325-dot/legendary-winner/blob/449a392221c0135828b6b922
 
 
 ## Wiring Diagram
-
+| TFT Pin | ESP32 Pin | Description |
+|--------|----------|-------------|
+| VCC | 3.3V | Power supply |
+| GND | GND | Ground |
+| CS | GPIO 1 | Chip select |
+| RST / RES | GPIO 2 | Reset |
+| DC / A0 | GPIO 3 | Data/command control |
+| SCL / SCK | GPIO 4 | SPI clock |
+| SDA / MOSI | GPIO 5 | SPI data |
+| LED / BL | 3.3V | Backlight power |
 
 ## Bill of Materials (BOM)
 
