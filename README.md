@@ -10,6 +10,11 @@ I built this project to learn embedded systems and create a physical interface f
 no materials yet
 
 ## 3D Model
+https://github.com/calebwu325-dot/legendary-winner/blob/449a392221c0135828b6b92257e0e043b42f2298/case.stl
+<img width="840" height="778" alt="Screenshot 2026-04-01 224054" src="https://github.com/user-attachments/assets/2a16d7d7-d219-43d5-a69d-e562b483e885" />
+<img width="1168" height="941" alt="Screenshot 2026-04-01 224129" src="https://github.com/user-attachments/assets/7c7e7ce9-2753-48ae-9ae1-5041f15062c7" />
+<img width="1194" height="921" alt="Screenshot 2026-04-01 224136" src="https://github.com/user-attachments/assets/d36852a2-e346-47e8-97ef-61d9e3f0983c" />
+
 
 
 ## Wiring Diagram
