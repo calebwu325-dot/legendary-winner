@@ -1,0 +1,24 @@
+# Spotify Display Device
+
+## Description
+This project is a WiFi-enabled Spotify display that shows the currently playing song on a TFT screen.
+
+## Why I Made This
+I built this project to learn embedded systems and create a physical interface for Spotify playback.
+
+
+
+
+
+
+## Bill of Materials (BOM)
+
+| Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
+|------|--------|----------|------------------|------|-------------|
+| REDRAGON SMD RGB Outemu MX Switch | Input buttons | 1 | $3.98 | Link to Listing | AliExpress |
+| 1.8" 128x160 SPI Full Color TFT LCD Display Module | Displays the Spotify song | 1 | $5.34 | Link to Listing | AliExpress |
+| C3 Mini V2.1.0 LOLIN WiFi Bluetooth LE BLE IoT Board | Microcontroller to connect components and run software | 1 | $5.47 | Link to Listing | AliExpress |
+| Anycubic Water Wash Resin 3.0 | Material for 3D printing the case | 1 | $20.98 | Link to Listing | Amazon |
+
+### Total Cost
+**$35.77** (excluding tax and shipping)
