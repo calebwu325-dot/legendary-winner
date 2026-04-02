@@ -6,9 +6,13 @@ This project is a WiFi-enabled Spotify display that shows the currently playing 
 ## Why I Made This
 I built this project to learn embedded systems and create a physical interface for Spotify playback.
 
+## Project Photos
+no materials yet
+
+## 3D Model
 
 
-
+## Wiring Diagram
 
 
 ## Bill of Materials (BOM)
